@@ -16,6 +16,7 @@ Trabalho em empresa de software educacional, focado em:
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
 
 ## 📂 Pinned Projects
+https://github.com/LuizFilipeSilva/Sistema-de-Gerenciamento-Python
 
 <details>
   <summary>⚙️ Mais informações</summary>
