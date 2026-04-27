@@ -1,31 +1,49 @@
-# Olá, eu sou o Luiz Filipe 👋
+# 👋 Olá, eu sou o Luiz Filipe
 
-## 🔭 Atualmente
-Trabalho em empresa de software educacional, focado em:
+💻 Software Developer com foco em **backend, dados e performance**, atuando no desenvolvimento de sistemas corporativos educacionais.
 
-- Manutenção e teste de sistemas
-- Desenvolvimento corporativo em TI
+---
 
-## 💻 Skills
+## 🚀 Sobre mim
+
+Atuo no desenvolvimento de soluções focadas em **relatórios inteligentes, automação de processos e otimização de sistemas**.
+
+Tenho experiência em transformar processos manuais em fluxos automatizados, reduzindo retrabalho e melhorando a performance de aplicações.
+
+---
+
+## 🔥 Principais experiências
+
+- 📊 Desenvolvimento de **relatórios dinâmicos e inteligentes**, com personalização de colunas, filtros e exportação em PDF/CSV  
+- ⚡ Otimização de performance no backend (**Django + PostgreSQL**), reduzindo carga no servidor  
+- 🤖 Automação de processos com leitura de arquivos (ex: histórico escolar, contracheques, boletins)  
+- 📈 Criação de dashboards e gráficos interativos utilizando **React**  
+- 🔄 Participação na migração de sistemas legados para arquitetura moderna (React)  
+- 🗃️ Criação e otimização de queries SQL complexas  
+
+---
+
+## 💻 Tech Stack
+
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
 ![DRF](https://img.shields.io/badge/-Django--REST--Framework-092E20?style=flat)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
+![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
 
-## 📂 Pinned Projects
-https://github.com/LuizFilipeSilva/Sistema-de-Gerenciamento-Python
+---
 
-<details>
-  <summary>⚙️ Mais informações</summary>
-  
-  - 🔭 Desenvolvendo projeto X com Django  
-  - 🌱 Estudando GraphQL e Vue.js  
-  - 💬 Pergunte-me sobre testes automatizados e CI/CD  
-</details>
+## 📂 Projetos em destaque
+
+🔗 [Sistema de Gerenciamento (Python)](https://github.com/LuizFilipeSilva/Sistema-de-Gerenciamento-Python)
+
+📌 Em breve: novos projetos focados em relatórios, automação e dados
+
+---
 
 ## 📫 Contato
-- 📧 luiz.almeida7772@gmail.com 
+
+- 📧 luiz.almeida7772@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/luiz-filipe-rodrigues-543bb920b/)
